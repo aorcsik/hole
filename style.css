@@ -238,6 +238,7 @@ div#arrow:after {
 }
 
 button#start {
+    font-family: "Walter Turncoat";
     border-radius: 10px;
     background: #333;
     color: #fff;
